@@ -1,1 +1,1 @@
-# FD
+pip install opencv-python
